@@ -1,5 +1,0 @@
-# LICENSE
-
-## Apache 2.0
-
-## Applying emergency fix to license; learning stash.
